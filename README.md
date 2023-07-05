@@ -83,7 +83,7 @@
 ## 🚀 Loom Video <a name="live-demo"></a>
 
 
-- [Loom Video Link]()
+- [Loom Video Link](https://www.loom.com/share/dc93ff904dfb41788dad1bf380b5b462)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,7 +208,7 @@ If you like this project just give me a star to the project😊
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
