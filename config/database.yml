@@ -83,6 +83,4 @@ test:
 #
 production:
   <<: *default
-  database: budget_production
-  username: postgres
-  password: slofile
+  url: <%= ENV['DATABASE_URL'] %>
