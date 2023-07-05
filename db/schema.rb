@@ -9,8 +9,8 @@
 # migrations use external dependencies or application code.
 #
 # It's strongly recommended that you check this file into your version control system.
-
-ActiveRecord::Schema[7.0].define(version: 20_230_322_204_150) do
+# rubocop:disable Metrics/BlockLength
+ActiveRecord::Schema.define(version: 20_230_322_204_150) do
   # These are extensions that must be enabled in order to support this database
   enable_extension 'plpgsql'
 
@@ -68,3 +68,4 @@ ActiveRecord::Schema[7.0].define(version: 20_230_322_204_150) do
   add_foreign_key 'group_entities', 'groups'
   add_foreign_key 'groups', 'users'
 end
+# rubocop:enable Metrics/BlockLength
