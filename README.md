@@ -98,17 +98,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need a pc and install ant editor you prefer💯
 
-<!--
-Example command:
 
-```sh
-
-Ruby
-Ruby on Rails
-Visual Studio Code
-PostgreSQL
-```
- -->
 
 ### Setup
 
@@ -119,8 +109,8 @@ Example commands:
 
 ```sh
 
-  git clone  
-  cd 
+  git clone  https://github.com/MICHAELKITH/ror_capstone.git
+  cd ror_capstone
 ```
 ### Install
 
